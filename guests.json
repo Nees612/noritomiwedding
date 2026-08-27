@@ -1,0 +1,312 @@
+[
+  {
+    "CreatedAt": "2026-02-16T10:55:52.6594833Z",
+    "FullName": "\"Katalin Horváth \"",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Köszönjük a meghivàst! Kati&Gàbor&Gyuri❤️",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-16T10:57:05.1968742Z"
+  },
+  {
+    "CreatedAt": "2026-01-24T11:55:24.1274163Z",
+    "FullName": "Sebrek Dániel Péter",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-01-24T11:55:24.1274199Z"
+  },
+  {
+    "CreatedAt": "2026-01-02T07:51:28.7477901Z",
+    "FullName": "Molnár-Szabó László",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-01-02T07:53:06.5824472Z"
+  },
+  {
+    "CreatedAt": "2026-05-02T07:27:12.8114341Z",
+    "FullName": "Salgó Tibor",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Nagyon várjuk! Töltött káposzta! A pörkölt után!",
+    "SpecialFoodRequests": "Tejmentes :-)",
+    "UpdatedAt": "2026-05-02T07:37:32.7671106Z"
+  },
+  {
+    "CreatedAt": "2026-02-25T17:34:44.7237392Z",
+    "FullName": "Beus András",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "\"Nagyon várjuk az eseményt, készülünk a táncos cipőnkkel\"",
+    "SpecialFoodRequests": "Legyen finom :)",
+    "UpdatedAt": "2026-02-25T17:44:33.7379102Z"
+  },
+  {
+    "CreatedAt": "2026-01-24T11:57:42.7615695Z",
+    "FullName": "Sebrek Sára",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-01-24T11:59:00.6510993Z"
+  },
+  {
+    "CreatedAt": "2026-02-24T12:02:41.0167090Z",
+    "FullName": "Surányi László",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "Laci nem tudja megenni a paradicsomos és hagymás ételeket.",
+    "UpdatedAt": "2026-02-24T12:05:25.5776983Z"
+  },
+  {
+    "CreatedAt": "2026-06-30T16:04:11.2337476Z",
+    "FullName": "Hegedűs Ádám",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "Nyakunkon az esküvő:)",
+    "SpecialFoodRequests": "Bármit megeszünk:)",
+    "UpdatedAt": "2026-06-30T16:04:11.2337538Z"
+  },
+  {
+    "CreatedAt": "2026-04-29T17:52:37.9014830Z",
+    "FullName": "\"Szakál-Kiss Gabriella \"",
+    "GuestNumber": "4",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "4 :) nem 4+ 😉",
+    "SpecialFoodRequests": "Domi kevés zöldséget és gyümölcsöt eszik. Hanni kedvence a dupla csokis párna :)\\nPuszipacsi",
+    "UpdatedAt": "2026-04-29T17:53:29.2231231Z"
+  },
+  {
+    "CreatedAt": "2025-12-04T13:41:53.6102244Z",
+    "FullName": "\"Vas Dávid \"",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Fater én szóltam előre!",
+    "SpecialFoodRequests": "\"Gomba, oliva bogyo\"",
+    "UpdatedAt": "2025-12-04T13:44:30.1872873Z"
+  },
+  {
+    "CreatedAt": "2026-04-24T20:35:49.4033789Z",
+    "FullName": "Alpárne Renáta",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-04-24T20:35:49.4033800Z"
+  },
+  {
+    "CreatedAt": "2026-02-26T21:37:06.2213494Z",
+    "FullName": "Agnes Mutz",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "Petit is viszem! 🤣🤣🤣",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-26T21:37:06.2213576Z"
+  },
+  {
+    "CreatedAt": "2026-02-02T18:43:21.8069150Z",
+    "FullName": "\"Szabó Zoltán \"",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-02T18:45:39.6636539Z"
+  },
+  {
+    "CreatedAt": "2026-02-11T00:28:19.1244096Z",
+    "FullName": "Bak Attila",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-11T00:39:03.1299866Z"
+  },
+  {
+    "CreatedAt": "2026-01-24T14:32:51.4424178Z",
+    "FullName": "\"Sebrekné Horváth Beáta \"",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Eladó a menyasszony! 🤗",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-01-24T19:22:23.4736946Z"
+  },
+  {
+    "CreatedAt": "2026-03-15T19:47:48.9226166Z",
+    "FullName": "Mihalovics Réka",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-03-15T19:48:31.0789790Z"
+  },
+  {
+    "CreatedAt": "2026-05-17T13:14:54.8670245Z",
+    "FullName": "Salgó Gréta",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "Nagyon várom! :-)",
+    "SpecialFoodRequests": "\"Nincs. \"",
+    "UpdatedAt": "2026-05-17T13:14:54.8670313Z"
+  },
+  {
+    "CreatedAt": "2026-02-08T16:33:04.5470777Z",
+    "FullName": "Seres-Rohrer Eszter",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Juhuuuui",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-08T16:33:25.5694561Z"
+  },
+  {
+    "CreatedAt": "2026-04-03T18:43:30.9787862Z",
+    "FullName": "Kovács Frigyes",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-04-03T19:01:38.6626967Z"
+  },
+  {
+    "CreatedAt": "2026-05-19T06:26:04.9209876Z",
+    "FullName": "Kovács Péter",
+    "GuestNumber": "3",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Sok boldogságot <3",
+    "SpecialFoodRequests": "Nincs",
+    "UpdatedAt": "2026-05-19T06:27:14.1584990Z"
+  },
+  {
+    "CreatedAt": "2026-02-22T11:54:54.5383093Z",
+    "FullName": "Vas Adrienn",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Mi lesz a kaja?",
+    "SpecialFoodRequests": "\"A pisztácia nem baj, ha kifogyott.\"",
+    "UpdatedAt": "2026-02-22T11:55:21.6779722Z"
+  },
+  {
+    "CreatedAt": "2026-04-24T07:12:16.9792162Z",
+    "FullName": "Brgles Enikő",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-04-24T07:12:16.9792187Z"
+  },
+  {
+    "CreatedAt": "2026-05-31T15:55:20.7201755Z",
+    "FullName": "Szántó Csaba",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-05-31T15:56:49.6189311Z"
+  },
+  {
+    "CreatedAt": "2026-02-22T11:05:17.5910646Z",
+    "FullName": "Gyor Attila",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "\"Köszönjuk a meghívást, nagy örömmel jövünk esküvőtökre!  \"",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-23T10:37:46.4618186Z"
+  },
+  {
+    "CreatedAt": "2025-12-11T15:21:32.3004093Z",
+    "FullName": "Vas Benjámin",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Fogják ezt adni a TV2-n?",
+    "SpecialFoodRequests": "Legyenek nagy emberes husok",
+    "UpdatedAt": "2025-12-11T15:21:32.3004161Z"
+  },
+  {
+    "CreatedAt": "2026-02-12T17:54:47.0038792Z",
+    "FullName": "Tekeres Tímea",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-12T17:55:45.7021247Z"
+  },
+  {
+    "CreatedAt": "2026-03-15T19:47:33.4391747Z",
+    "FullName": "Arany Benedek",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "\"Sok boldogságot nektek! Már alig várom, hogy élőben gratulálhassak!\"",
+    "SpecialFoodRequests": "Laktóz érzékenység",
+    "UpdatedAt": "2026-03-16T05:09:42.8920923Z"
+  },
+  {
+    "CreatedAt": "2026-06-09T11:04:37.7252773Z",
+    "FullName": "Kozma Miklós",
+    "GuestNumber": "1",
+    "IsAttending": "true",
+    "IsVerified": "false",
+    "Message": "\"A házasság az a viszony, amelyben az egyik félnek mindig igaza van, a másik pedig a férj.”\\nMèg tudok párat, azt majd èlőben :)\"",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-06-09T11:04:37.7252834Z"
+  },
+  {
+    "CreatedAt": "2026-05-26T06:34:28.3114452Z",
+    "FullName": "Vas Tibor",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-05-26T06:35:54.0546095Z"
+  },
+  {
+    "CreatedAt": "2026-02-15T07:47:34.5863095Z",
+    "FullName": "Kovács Péter",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Köszönjúk szépen!😘",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2026-02-15T07:48:34.1279027Z"
+  },
+  {
+    "CreatedAt": "2025-12-01T14:51:07.3634593Z",
+    "FullName": "Vass Ferenc",
+    "GuestNumber": "2",
+    "IsAttending": "true",
+    "IsVerified": "true",
+    "Message": "Köszönjük a meghívást",
+    "SpecialFoodRequests": "",
+    "UpdatedAt": "2025-12-01T14:52:41.0378346Z"
+  }
+]
